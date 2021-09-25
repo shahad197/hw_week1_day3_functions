@@ -42,24 +42,6 @@ fun main() {
 Output: "The largest number is 14"
 ```
 
-```sh
-Solution:
-val maximum: (Int, Int, Int) -> String = { a, b, c->
-    var max: Int = 0
-    if (a >= b && a >= c) {
-        max = a
-    }else if (b >= a && b >= c){
-        max = b
-    }else{
-        max = c
-    }
-    "The largest number is $max"
-}
-fun main() {
-    println(maximum(10,14,12))
-}
-```
-
 ## Part III - More Practicing (Optional).
 ---
 ### Challenge 1: Mathematical Operations
