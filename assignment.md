@@ -2,7 +2,7 @@
 ---
 The Kotlin assignment has three components:
 - Part I: Practice with functions.
-- Part II: Practice with Anonymous Functions.
+- Part II: Practice with Anonymous Functions (Optional).
 - Part III: More Practicing (Optional).
   
 > Note: You must save your solution as `solution_part1.kt` for Part I, and `solution_part2.kt` for Part II.
@@ -30,7 +30,7 @@ fun main() {
 Output: "Ahmed Abdullah Al Waleed"
 ```
 
-## Part II - Practice with Anonymous Functions.
+## Part II - Practice with Anonymous Functions (Optional).
 ---
 ### Question 3
 Create an anonymous function called `maximum()` that takes three number as input and return the largest one of these numbers.
